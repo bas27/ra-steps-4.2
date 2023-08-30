@@ -1,7 +1,8 @@
 import { useState } from 'react';
 import dayjs from 'dayjs';
 import customParseFormat from 'dayjs/plugin/customParseFormat';
-import { TDataList, TITLES } from '../JurnalLog';
+import { TDataList } from '../JurnalLog';
+import { TITLES } from '../Titles'
 
 const FormData = ({ data, onSubmit }: { data: TDataList, onSubmit: any }) => {
 
