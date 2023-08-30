@@ -1,7 +1,9 @@
 # React + TypeScript + Vite
 
-
 Учёт тренировок
+
+[![steps](https://github.com/bas27/ra-steps-4.2/actions/workflows/web.yml/badge.svg)](https://github.com/bas27/ra-steps-4.2/actions/workflows/web.yml)
+
 ===
 
 Вы решили реализовать небольшое приложение, которое хранит данные о тренировках и прогулках, которые вы совершаете в течение недели.
